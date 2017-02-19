@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/SimpleFactory.dir/Subtraction.cpp.o CMakeFiles/SimpleFactory.dir/Multiply.cpp.o CMakeFiles/SimpleFactory.dir/Division.cpp.o CMakeFiles/SimpleFactory.dir/Add.cpp.o CMakeFiles/SimpleFactory.dir/OperationFactory.cpp.o CMakeFiles/SimpleFactory.dir/main.cpp.o  -o ../bin/SimpleFactory -rdynamic 
