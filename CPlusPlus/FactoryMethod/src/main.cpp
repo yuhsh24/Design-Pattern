@@ -29,6 +29,14 @@ int main()
 	cout<<"Subtraction Operation: "<<"value1: "<<value1<<" "<<"value2: "<<value2<<" "<<"ans: "<<sub->GetResult(value1,value2)<<endl;
 	cout<<"Multiply Operation: "<<"value1: "<<value1<<" "<<"value2: "<<value2<<" "<<"ans: "<<mul->GetResult(value1,value2)<<endl;
 	cout<<"Division Operation: "<<"value1: "<<value1<<" "<<"value2: "<<value2<<" "<<"ans: "<<div->GetResult(value1,value2)<<endl;
+	delete add;
+	delete addFac;
+	delete sub;
+	delete subFac;
+	delete mul;
+	delete mulFac;
+	delete div;
+	delete divFac;
 	return 0;
 }
 
