@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuhsh/Design-Pattern/CPlusPlus/FactoryMethod/src/main.cpp
+iostream
+-
+AddFactory.h
+/home/yuhsh/Design-Pattern/CPlusPlus/FactoryMethod/src/AddFactory.h
+SubtractionFactory.h
+/home/yuhsh/Design-Pattern/CPlusPlus/FactoryMethod/src/SubtractionFactory.h
+MultiplyFactory.h
+/home/yuhsh/Design-Pattern/CPlusPlus/FactoryMethod/src/MultiplyFactory.h
+DivisionFactory.h
+/home/yuhsh/Design-Pattern/CPlusPlus/FactoryMethod/src/DivisionFactory.h
+
+include/AddFactory.h
+OperationFactory.h
+include/OperationFactory.h
+
+include/DivisionFactory.h
+OperationFactory.h
+include/OperationFactory.h
+
+include/MultiplyFactory.h
+OperationFactory.h
+include/OperationFactory.h
+
+include/Operation.h
+
+include/OperationFactory.h
+Operation.h
+include/Operation.h
+
+include/SubtractionFactory.h
+OperationFactory.h
+include/OperationFactory.h
+

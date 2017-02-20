@@ -1,13 +1,14 @@
 /*************************************************************************
-    > File Name: Subtraction.cpp
+    > File Name: SubtractionFactory.cpp
     > Author: ma6174
     > Mail: ma6174@163.com 
-    > Created Time: 2017年02月19日 星期日 13时03分30秒
+    > Created Time: 2017年02月20日 星期一 10时52分00秒
  ************************************************************************/
 
+#include"SubtractionFactory.h"
 #include"Subtraction.h"
 
-double Subtraction::GetResult(double A, double B)
+Operation* SubtractionFactory::CreateInstance()
 {
-	return A-B;
+	return new Subtraction();
 }

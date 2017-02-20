@@ -1,13 +1,14 @@
 /*************************************************************************
-    > File Name: Division.cpp
+    > File Name: AddFactory.cpp
     > Author: ma6174
     > Mail: ma6174@163.com 
-    > Created Time: 2017年02月19日 星期日 13时05分06秒
+    > Created Time: 2017年02月20日 星期一 10时49分50秒
  ************************************************************************/
 
-#include"Division.h"
+#include"AddFactory.h"
+#include"Add.h"
 
-double Division::GetResult(double A, double B)
+Operation* AddFactory::CreateInstance()
 {
-	return A/B;
+	return new Add();
 }

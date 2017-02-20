@@ -1,13 +1,14 @@
 /*************************************************************************
-    > File Name: Multiply.cpp
+    > File Name: MultiplyFactory.cpp
     > Author: ma6174
     > Mail: ma6174@163.com 
-    > Created Time: 2017年02月19日 星期日 13时04分24秒
+    > Created Time: 2017年02月20日 星期一 10时53分55秒
  ************************************************************************/
 
+#include"MultiplyFactory.h"
 #include"Multiply.h"
 
-double Multiply::GetResult(double A, double B)
+Operation* MultiplyFactory::CreateInstance()
 {
-	return A*B;
+	return new Multiply();
 }
