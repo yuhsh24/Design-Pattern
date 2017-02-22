@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuhsh/Design-Pattern/CPlusPlus/Singleton/src/main.cpp
+Singleton.h
+/home/yuhsh/Design-Pattern/CPlusPlus/Singleton/src/Singleton.h
+iostream
+-
+
+include/Singleton.h
+pthread.h
+-
+
