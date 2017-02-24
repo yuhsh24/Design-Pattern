@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/Builder.dir/Builder.cpp.o CMakeFiles/Builder.dir/Product.cpp.o CMakeFiles/Builder.dir/FatManBuilder.cpp.o CMakeFiles/Builder.dir/Director.cpp.o CMakeFiles/Builder.dir/main.cpp.o CMakeFiles/Builder.dir/ThinManBuilder.cpp.o  -o ../bin/Builder -rdynamic 

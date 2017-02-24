@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuhsh/Design-Pattern/CPlusPlus/Builder/src/main.cpp
+iostream
+-
+memory
+-
+Product.h
+/home/yuhsh/Design-Pattern/CPlusPlus/Builder/src/Product.h
+FatManBuilder.h
+/home/yuhsh/Design-Pattern/CPlusPlus/Builder/src/FatManBuilder.h
+ThinManBuilder.h
+/home/yuhsh/Design-Pattern/CPlusPlus/Builder/src/ThinManBuilder.h
+Director.h
+/home/yuhsh/Design-Pattern/CPlusPlus/Builder/src/Director.h
+
+include/Builder.h
+Product.h
+include/Product.h
+
+include/Director.h
+Builder.h
+include/Builder.h
+
+include/FatManBuilder.h
+Builder.h
+include/Builder.h
+
+include/Product.h
+vector
+-
+string
+-
+
+include/ThinManBuilder.h
+Builder.h
+include/Builder.h
+
