@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuhsh/Design-Pattern/CPlusPlus/Prototype/src/main.cpp
+iostream
+-
+memory
+-
+ResumeA.h
+/home/yuhsh/Design-Pattern/CPlusPlus/Prototype/src/ResumeA.h
+ResumeB.h
+/home/yuhsh/Design-Pattern/CPlusPlus/Prototype/src/ResumeB.h
+
+include/Resume.h
+
+include/ResumeA.h
+Resume.h
+include/Resume.h
+
+include/ResumeB.h
+Resume.h
+include/Resume.h
+

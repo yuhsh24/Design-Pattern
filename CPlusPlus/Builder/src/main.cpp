@@ -16,7 +16,7 @@ using namespace std;
 int main()
 {
 	shared_ptr<Director> director = make_shared<Director>();
-    	shared_ptr<Builder> fatBuilder = make_shared<FatManBuilder>();
+    shared_ptr<Builder> fatBuilder = make_shared<FatManBuilder>();
 	shared_ptr<Builder> thinBuilder = make_shared<ThinManBuilder>();
 	director->Construct(*fatBuilder);
 	director->Construct(*thinBuilder);

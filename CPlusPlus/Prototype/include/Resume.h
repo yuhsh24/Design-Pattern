@@ -11,11 +11,13 @@
 class Resume
 {
 public:
+	Resume(const char* str);
+	Resume(const Resume& resume);
 	virtual ~Resume();
 	virtual Resume* Clone()=0;
-	virtual void Show()=0;
-	void SetName(const char*);
+	void Show();
+	void SetName(const char* str);
 protected:
 	char *name;
-}
+};
 #endif
