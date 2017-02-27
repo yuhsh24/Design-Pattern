@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/Bridge.dir/Game.cpp.o CMakeFiles/Bridge.dir/Software.cpp.o CMakeFiles/Bridge.dir/Samsung.cpp.o CMakeFiles/Bridge.dir/Communication.cpp.o CMakeFiles/Bridge.dir/MobilePhone.cpp.o CMakeFiles/Bridge.dir/Iphone.cpp.o CMakeFiles/Bridge.dir/main.cpp.o  -o ../bin/Bridge -rdynamic 

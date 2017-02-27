@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuhsh/Design-Pattern/CPlusPlus/Bridge/src/main.cpp
+iostream
+-
+memory
+-
+Iphone.h
+/home/yuhsh/Design-Pattern/CPlusPlus/Bridge/src/Iphone.h
+Samsung.h
+/home/yuhsh/Design-Pattern/CPlusPlus/Bridge/src/Samsung.h
+Communication.h
+/home/yuhsh/Design-Pattern/CPlusPlus/Bridge/src/Communication.h
+Game.h
+/home/yuhsh/Design-Pattern/CPlusPlus/Bridge/src/Game.h
+
+include/Communication.h
+Software.h
+include/Software.h
+
+include/Game.h
+Software.h
+include/Software.h
+
+include/Iphone.h
+MobilePhone.h
+include/MobilePhone.h
+
+include/MobilePhone.h
+
+include/Samsung.h
+MobilePhone.h
+include/MobilePhone.h
+
+include/Software.h
+string
+-
+
