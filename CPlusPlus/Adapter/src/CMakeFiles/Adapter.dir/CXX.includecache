@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuhsh/Design-Pattern/CPlusPlus/Adapter/src/main.cpp
+iostream
+-
+memory
+-
+CenterTranslator.h
+/home/yuhsh/Design-Pattern/CPlusPlus/Adapter/src/CenterTranslator.h
+Center.h
+/home/yuhsh/Design-Pattern/CPlusPlus/Adapter/src/Center.h
+
+include/Center.h
+string
+-
+
+include/CenterTranslator.h
+ChineseCenter.h
+include/ChineseCenter.h
+Center.h
+include/Center.h
+string
+-
+
+include/ChineseCenter.h
+string
+-
+

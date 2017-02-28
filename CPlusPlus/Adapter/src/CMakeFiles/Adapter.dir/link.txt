@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/Adapter.dir/CenterTranslator.cpp.o CMakeFiles/Adapter.dir/ChineseCenter.cpp.o CMakeFiles/Adapter.dir/main.cpp.o CMakeFiles/Adapter.dir/Center.cpp.o  -o ../bin/Adapter -rdynamic 
