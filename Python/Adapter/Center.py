@@ -12,7 +12,7 @@ class Center:
     def Defence(self):
         print "Center Defence!"
 
-class TranslatorCenter(Center):
+class CenterTranslator(Center):
 
     def __init__(self, str):
         Center.__init__(self, str)

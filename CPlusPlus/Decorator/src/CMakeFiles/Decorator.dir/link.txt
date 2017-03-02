@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/Decorator.dir/Samsung.cpp.o CMakeFiles/Decorator.dir/Decorator2.cpp.o CMakeFiles/Decorator.dir/MobilePhone.cpp.o CMakeFiles/Decorator.dir/Decorator1.cpp.o CMakeFiles/Decorator.dir/Iphone.cpp.o CMakeFiles/Decorator.dir/Decorator.cpp.o CMakeFiles/Decorator.dir/main.cpp.o  -o ../bin/Decorator -rdynamic 
