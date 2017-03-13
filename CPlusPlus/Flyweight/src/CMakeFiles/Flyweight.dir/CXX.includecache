@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuhsh/Design-Pattern/CPlusPlus/Flyweight/src/Piece.cpp
+Piece.h
+/home/yuhsh/Design-Pattern/CPlusPlus/Flyweight/src/Piece.h
+
+include/Piece.h
+

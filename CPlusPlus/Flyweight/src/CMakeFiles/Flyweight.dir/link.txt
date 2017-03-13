@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/Flyweight.dir/Piece.cpp.o CMakeFiles/Flyweight.dir/BlackPiece.cpp.o CMakeFiles/Flyweight.dir/PieceBoard.cpp.o CMakeFiles/Flyweight.dir/WhitePiece.cpp.o CMakeFiles/Flyweight.dir/main.cpp.o  -o ../bin/Flyweight -rdynamic 
