@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuhsh/Design-Pattern/CPlusPlus/Proxy/src/Player.cpp
+Player.h
+/home/yuhsh/Design-Pattern/CPlusPlus/Proxy/src/Player.h
+iostream
+-
+
+include/Play.h
+
+include/Player.h
+Play.h
+include/Play.h
+
