@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/Template.dir/HTTPFileOperation.cpp.o CMakeFiles/Template.dir/SOAPFileOperation.cpp.o CMakeFiles/Template.dir/FileOperation.cpp.o CMakeFiles/Template.dir/main.cpp.o  -o ../bin/Template -rdynamic 

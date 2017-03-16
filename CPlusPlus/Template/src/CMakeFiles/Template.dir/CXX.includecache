@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuhsh/Design-Pattern/CPlusPlus/Template/src/FileOperation.cpp
+FileOperation.h
+/home/yuhsh/Design-Pattern/CPlusPlus/Template/src/FileOperation.h
+
+/home/yuhsh/Design-Pattern/CPlusPlus/Template/src/HTTPFileOperation.cpp
+iostream
+-
+HTTPFileOperation.h
+/home/yuhsh/Design-Pattern/CPlusPlus/Template/src/HTTPFileOperation.h
+
+/home/yuhsh/Design-Pattern/CPlusPlus/Template/src/SOAPFileOperation.cpp
+iostream
+-
+SOAPFileOperation.h
+/home/yuhsh/Design-Pattern/CPlusPlus/Template/src/SOAPFileOperation.h
+
+/home/yuhsh/Design-Pattern/CPlusPlus/Template/src/main.cpp
+iostream
+-
+memory
+-
+HTTPFileOperation.h
+/home/yuhsh/Design-Pattern/CPlusPlus/Template/src/HTTPFileOperation.h
+SOAPFileOperation.h
+/home/yuhsh/Design-Pattern/CPlusPlus/Template/src/SOAPFileOperation.h
+
+include/FileOperation.h
+
+include/HTTPFileOperation.h
+FileOperation.h
+include/FileOperation.h
+
+include/SOAPFileOperation.h
+FileOperation.h
+include/FileOperation.h
+
