@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/Strategy.dir/Cache.cpp.o CMakeFiles/Strategy.dir/ReplaceAlgorithm.cpp.o CMakeFiles/Strategy.dir/RANDOMReplaceAlgorithm.cpp.o CMakeFiles/Strategy.dir/FIFOReplaceAlgorithm.cpp.o CMakeFiles/Strategy.dir/LRUReplaceAlgorithm.cpp.o CMakeFiles/Strategy.dir/main.cpp.o  -o ../bin/Strategy -rdynamic 

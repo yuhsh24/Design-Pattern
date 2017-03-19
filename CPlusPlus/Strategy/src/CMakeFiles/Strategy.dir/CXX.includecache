@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuhsh/Design-Pattern/CPlusPlus/Strategy/src/main.cpp
+Cache.h
+/home/yuhsh/Design-Pattern/CPlusPlus/Strategy/src/Cache.h
+LRUReplaceAlgorithm.h
+/home/yuhsh/Design-Pattern/CPlusPlus/Strategy/src/LRUReplaceAlgorithm.h
+FIFOReplaceAlgorithm.h
+/home/yuhsh/Design-Pattern/CPlusPlus/Strategy/src/FIFOReplaceAlgorithm.h
+RANDOMReplaceAlgorithm.h
+/home/yuhsh/Design-Pattern/CPlusPlus/Strategy/src/RANDOMReplaceAlgorithm.h
+iostream
+-
+memory
+-
+
+include/Cache.h
+ReplaceAlgorithm.h
+include/ReplaceAlgorithm.h
+memory
+-
+
+include/FIFOReplaceAlgorithm.h
+ReplaceAlgorithm.h
+include/ReplaceAlgorithm.h
+
+include/LRUReplaceAlgorithm.h
+ReplaceAlgorithm.h
+include/ReplaceAlgorithm.h
+
+include/RANDOMReplaceAlgorithm.h
+ReplaceAlgorithm.h
+include/ReplaceAlgorithm.h
+
+include/ReplaceAlgorithm.h
+
