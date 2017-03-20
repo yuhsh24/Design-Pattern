@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuhsh/Design-Pattern/CPlusPlus/State/src/SiegeTank.cpp
+SiegeTank.h
+/home/yuhsh/Design-Pattern/CPlusPlus/State/src/SiegeTank.h
+
+include/SiegeState.h
+SiegeTankState.h
+include/SiegeTankState.h
+
+include/SiegeTank.h
+SiegeTankState.h
+include/SiegeTankState.h
+SiegeState.h
+include/SiegeState.h
+TankState.h
+include/TankState.h
+memory
+-
+
+include/SiegeTankState.h
+
+include/TankState.h
+SiegeTankState.h
+include/SiegeTankState.h
+
