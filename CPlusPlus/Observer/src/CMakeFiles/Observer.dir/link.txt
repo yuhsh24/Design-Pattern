@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/Observer.dir/Blog.cpp.o CMakeFiles/Observer.dir/BlogCSDN.cpp.o CMakeFiles/Observer.dir/ObserverBlog.cpp.o CMakeFiles/Observer.dir/Observer.cpp.o CMakeFiles/Observer.dir/main.cpp.o  -o ../bin/Observer -rdynamic 
