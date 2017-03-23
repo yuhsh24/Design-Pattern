@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuhsh/Design-Pattern/CPlusPlus/Memory/src/CareTake.cpp
+CareTake.h
+/home/yuhsh/Design-Pattern/CPlusPlus/Memory/src/CareTake.h
+
+/home/yuhsh/Design-Pattern/CPlusPlus/Memory/src/main.cpp
+iostream
+-
+GameRole.h
+/home/yuhsh/Design-Pattern/CPlusPlus/Memory/src/GameRole.h
+CareTake.h
+/home/yuhsh/Design-Pattern/CPlusPlus/Memory/src/CareTake.h
+
+include/CareTake.h
+Memento.h
+include/Memento.h
+
+include/GameRole.h
+Memento.h
+include/Memento.h
+
+include/Memento.h
+
