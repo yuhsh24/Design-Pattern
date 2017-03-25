@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuhsh/Design-Pattern/CPlusPlus/Mediator/src/main.cpp
+iostream
+-
+memory
+-
+Country.h
+/home/yuhsh/Design-Pattern/CPlusPlus/Mediator/src/Country.h
+UnitedNationsSecurityCouncil.h
+/home/yuhsh/Design-Pattern/CPlusPlus/Mediator/src/UnitedNationsSecurityCouncil.h
+
+include/Country.h
+UnitedNations.h
+include/UnitedNations.h
+memory
+-
+string
+-
+
+include/UnitedNations.h
+string
+-
+memory
+-
+
+include/UnitedNationsSecurityCouncil.h
+UnitedNations.h
+include/UnitedNations.h
+memory
+-
+string
+-
+
